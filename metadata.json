@@ -1,0 +1,7 @@
+{
+  "name": "GestureScroll AI",
+  "description": "Control your browser scrolling using hand gestures captured via webcam and analyzed by Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
